@@ -98,5 +98,5 @@ puis tapez par exemple :
 python -m rplife
 ```
 
-Vous l'aurez compris, il n'y a juste qu'à prefixer les commandes d'exécution par `python` après avoir
+Vous l'aurez compris, il n'y a juste qu'à prefixer les commandes d'exécution par `python -m` après avoir
 activer l'environnement virtuel qui contient les dépendances du projet.
